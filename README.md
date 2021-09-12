@@ -1,5 +1,5 @@
 # Forex-News
-Forex News is a project developed, whose goal was providing updated information for the students of the GBM Homebroker trading course.
+Forex News is a project whose goal was providing updated information for the students of the GBM Homebroker trading course.
 
 Basically it is a program that extracts information from the three best financial news sites in the world so that it subsequently goes through the ETL stages, ending with the loading of the dataset into a relational MySQL Database.
 
